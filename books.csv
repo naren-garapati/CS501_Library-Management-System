@@ -1,0 +1,16 @@
+itemId,title,publicationYear,isbn,genre,author
+B001,The Great Gatsby,1925,978-0743273565,Fiction,F. Scott Fitzgerald
+B002,To Kill a Mockingbird,1960,978-0061120084,Fiction,Harper Lee
+B003,1984,1949,978-0451524935,Science Fiction,George Orwell
+B004,The Hobbit,1937,978-0547928227,Fantasy,J.R.R. Tolkien
+B005,Harry Potter and the Philosopher's Stone,1997,978-0747532699,Fantasy,J.K. Rowling
+B006,Pride and Prejudice,1813,978-0143105428,Classic,Jane Austen
+B007,The Catcher in the Rye,1951,978-0316769488,Fiction,J.D. Salinger
+B008,The Lord of the Rings,1954,978-0618640157,Fantasy,J.R.R. Tolkien
+B009,The Da Vinci Code,2003,978-0307474278,Mystery,Dan Brown
+B010,The Alchemist,1988,978-0062315007,Fiction,Paulo Coelho
+B011,Brave New World,1932,978-0060850524,Science Fiction,Aldous Huxley
+B012,The Hunger Games,2008,978-0439023481,Science Fiction,Suzanne Collins
+B013,The Road,2006,978-0307387899,Post-Apocalyptic,Cormac McCarthy
+B014,The Kite Runner,2003,978-1594631931,Historical Fiction,Khaled Hosseini
+B015,The Fault in Our Stars,2012,978-0142424179,Young Adult,John Green

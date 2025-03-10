@@ -1,0 +1,16 @@
+itemId,title,publicationYear,director,genre
+D001,The Shawshank Redemption,1994,Frank Darabont,Drama
+D002,The Godfather,1972,Francis Ford Coppola,Crime
+D003,The Dark Knight,2008,Christopher Nolan,Action
+D004,Pulp Fiction,1994,Quentin Tarantino,Crime
+D005,Schindler's List,1993,Steven Spielberg,Biography
+D006,Forrest Gump,1994,Robert Zemeckis,Drama
+D007,The Matrix,1999,Lana and Lilly Wachowski,Science Fiction
+D008,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,Fantasy
+D009,Inception,2010,Christopher Nolan,Science Fiction
+D010,The Silence of the Lambs,1991,Jonathan Demme,Thriller
+D011,Goodfellas,1990,Martin Scorsese,Crime
+D012,The Avengers,2012,Joss Whedon,Action
+D013,Titanic,1997,James Cameron,Romance
+D014,The Departed,2006,Martin Scorsese,Crime
+D015,Gladiator,2000,Ridley Scott,Action
